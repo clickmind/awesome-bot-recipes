@@ -1,0 +1,3 @@
+Topics to add on GitHub: mcp, ai-agents, llms-txt, automation, awesome
+Description: Tested setups for AI agents and bots, plus a remote MCP server (botrecipe.com/api/mcp).
+Website: https://botrecipe.com
