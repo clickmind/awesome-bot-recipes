@@ -6,12 +6,21 @@ Each title links to its page on [botrecipe.com](https://botrecipe.com), where th
 
 ## Contents
 
+- [Free Bot Builder skill](#free-bot-builder-skill)
 - [Connect via MCP](#connect-via-mcp)
 - [Recipes by category](#recipes-by-category)
 - [Sample recipes](#sample-recipes)
 - [Full pack](#full-pack)
 - [Directory of MCP servers and bots](#directory-of-mcp-servers-and-bots)
 - [Contributing](#contributing)
+
+## Free Bot Builder skill
+
+A free skill that turns Claude, ChatGPT, Grok Bot or Supa Humans into a bot-team designer. It asks 3 short questions, looks up tested setups over the MCP below, and writes copy-paste instructions for each bot.
+
+- Install steps for each assistant: [botrecipe.com/free](https://botrecipe.com/free/)
+- Skill file: [bot-builder.md](https://botrecipe.com/free/bot-builder.md)
+- Custom GPT instructions: [gpt-instructions.txt](https://botrecipe.com/free/gpt-instructions.txt)
 
 ## Connect via MCP
 
