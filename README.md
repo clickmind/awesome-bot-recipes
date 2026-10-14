@@ -66,7 +66,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 
 ## Recipes by category
 
-### Bot Infrastructure
+### Infrastructure
 
 - [AI cost per bot tracker](https://botrecipe.com/recipes/ai-cost-per-bot-tracker/) - Tracks what each bot spends on AI calls each week.
 - [Bot instructions version history](https://botrecipe.com/recipes/bot-instructions-version-history/) - Keeps every change to a bot's prompt with the date and reason.
@@ -98,7 +98,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Unanswered question sweep](https://botrecipe.com/recipes/unanswered-question-sweep/) - Finds help questions nobody answered and gets them answered.
 - [Weekly community highlights](https://botrecipe.com/recipes/weekly-community-highlights/) - Posts a short roundup of the best threads each week.
 
-### Content Bots
+### Content
 
 - [Accessibility pass on posts](https://botrecipe.com/recipes/accessibility-pass-on-posts/) - Checks images have alt text, links say where they go and headings are in order before publishing.
 - [Content calendar from goals](https://botrecipe.com/recipes/content-calendar-from-goals/) - Builds a month of topics tied to what you are selling or launching.
@@ -115,7 +115,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Style guide for AI drafts](https://botrecipe.com/recipes/style-guide-for-ai-drafts/) - Writes a one-page style guide so every AI draft sounds like you.
 - [Turn repeated questions into a post](https://botrecipe.com/recipes/comments-to-faq-post/) - Collects questions from your comments and DMs, groups them, and drafts one post answering the most common.
 
-### Dev
+### Developer
 
 - [Customer update from the changelog](https://botrecipe.com/recipes/release-notes-for-customers/) - Turns the technical changelog into a short customer update for email, your site and social.
 - [Flaky test tracker](https://botrecipe.com/recipes/flaky-test-tracker/) - Spots tests that fail and then pass on retry, counts them, and opens one issue per repeat offender.
@@ -124,7 +124,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Test your README setup weekly](https://botrecipe.com/recipes/readme-setup-test/) - Runs your README's setup steps in a clean container each week so you know the instructions still work.
 - [Weekly dependency update batch](https://botrecipe.com/recipes/weekly-dependency-batch/) - Groups minor dependency updates into one weekly pull request and summarizes anything that might break.
 
-### Ecommerce
+### Online store
 
 - [Abandoned cart follow-up with a question](https://botrecipe.com/recipes/abandoned-cart-follow-up-with-a-question/) - Sends one plain follow-up asking what stopped the purchase, instead of a discount.
 - [Back in stock waitlist](https://botrecipe.com/recipes/back-in-stock-waitlist/) - Lets visitors join a waitlist for sold-out items and emails them when stock returns.
@@ -139,7 +139,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Supplier reorder email drafts](https://botrecipe.com/recipes/supplier-reorder-email-drafts/) - Drafts a reorder email to your supplier when stock runs low.
 - [Wholesale inquiry qualifier](https://botrecipe.com/recipes/wholesale-inquiry-qualifier/) - Asks wholesale leads a few questions automatically before you spend time on a call.
 
-### Education
+### Courses & teaching
 
 - [Completion certificate](https://botrecipe.com/recipes/completion-certificate/) - Sends a certificate when a student finishes, with an easy way to share it.
 - [First-pass feedback on assignments](https://botrecipe.com/recipes/assignment-feedback-draft/) - Drafts feedback on student work against your rubric, so you edit instead of writing from zero.
@@ -149,7 +149,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Office hours question queue](https://botrecipe.com/recipes/office-hours-question-queue/) - Collects student questions before live office hours so answers are prepared.
 - [One-question module feedback](https://botrecipe.com/recipes/one-question-module-feedback/) - Asks one question after each module to find exactly where students get stuck.
 
-### Events
+### Events & webinars
 
 - [Event Q&A collector](https://botrecipe.com/recipes/event-q-a-collector/) - Collects questions before the event so you can prepare real answers.
 - [Meetup check-in sheet](https://botrecipe.com/recipes/meetup-check-in-sheet/) - Simple check-in for in-person events using a QR code and form.
@@ -159,7 +159,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Sponsor prospect list for your event](https://botrecipe.com/recipes/sponsor-prospect-list/) - Builds a list of companies that sponsored similar events, with a contact and a first email draft.
 - [Webinar registration to reminder sequence](https://botrecipe.com/recipes/webinar-registration-to-reminder-sequence/) - Registrants get a confirmation, a day-before reminder and a 10-minute reminder.
 
-### Inbox Calendar
+### Inbox & calendar
 
 - [Agenda request before meetings](https://botrecipe.com/recipes/agenda-request-before-meetings/) - Asks external guests for agenda topics the day before, and adds them to the invite.
 - [Calendar buffer guard](https://botrecipe.com/recipes/calendar-buffer-guard/) - Adds breathing room after long meetings so the day does not run late.
@@ -173,7 +173,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Time zone check for new meetings](https://botrecipe.com/recipes/meeting-timezone-check/) - When someone in another time zone books a meeting, writes the time in both zones in the invite and flags odd hours.
 - [Weekday morning brief](https://botrecipe.com/recipes/weekday-morning-brief/) - Each weekday morning, a bot reads what happened overnight and sends you one short list: what shipped, what broke, what needs you.
 
-### Linkedin
+### LinkedIn
 
 - [Carousel from a blog post](https://botrecipe.com/recipes/carousel-from-a-blog-post/) - Turns a post into a slide document for LinkedIn.
 - [Comment-first routine](https://botrecipe.com/recipes/comment-first-routine/) - Spend ten minutes leaving thoughtful comments on posts in your niche before posting your own.
@@ -183,7 +183,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Profile visitor follow-up list](https://botrecipe.com/recipes/profile-visitor-follow-up-list/) - Keeps a weekly list of relevant profile visitors to consider connecting with.
 - [Reply to every comment on your post](https://botrecipe.com/recipes/linkedin-comment-replies/) - Two hours after you post on LinkedIn, drafts a specific reply to each comment for you to post by hand.
 
-### Local Business
+### Local business
 
 - [Appointment reminders](https://botrecipe.com/recipes/appointment-reminders/) - Cuts no-shows with reminders that make rescheduling easy.
 - [Google Business Profile weekly post](https://botrecipe.com/recipes/google-business-profile-weekly-post/) - Posts one update a week to your Google profile.
@@ -193,7 +193,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Seasonal service reminder](https://botrecipe.com/recipes/seasonal-service-reminder/) - Reminds last year's customers before their seasonal service is due.
 - [Voicemail to a job card](https://botrecipe.com/recipes/voicemail-to-job-card/) - Turns voicemail transcripts into a short job card: name, number, what they need, where, and how urgent.
 
-### Money Admin
+### Bookkeeping & admin
 
 - [Contract renewal tracker](https://botrecipe.com/recipes/contract-renewal-tracker/) - Reminds you before contracts and annual plans renew.
 - [Expense category suggester](https://botrecipe.com/recipes/expense-category-suggester/) - Suggests a bookkeeping category for each new transaction based on your past choices.
@@ -223,7 +223,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Subscriber cleanup every quarter](https://botrecipe.com/recipes/subscriber-cleanup-every-quarter/) - Finds subscribers who have not opened in a long time and sends one "still want this?" email.
 - [Welcome sequence that asks one question](https://botrecipe.com/recipes/welcome-sequence-that-asks-one-question/) - New subscribers get a welcome email that asks what they want help with, and replies get tagged.
 
-### Ops
+### Operations
 
 - [Client onboarding file chaser](https://botrecipe.com/recipes/client-onboarding-file-chaser/) - After a client signs, sends one checklist of what you need and reminds them only about the items still missing.
 - [How-to guide from a screen recording](https://botrecipe.com/recipes/sop-from-screen-recording/) - Turns a quick screen recording of you doing a task into a written step-by-step guide someone else can follow.
@@ -247,7 +247,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Spending cap for bots that can buy things](https://botrecipe.com/recipes/spend-cap-guard/) - Before a bot buys a domain, ad or tool, it checks the price against a cap you set and stops if it is over.
 - [Webhook-driven access granting](https://botrecipe.com/recipes/webhook-driven-access-granting/) - Grants access to a product when payment succeeds, using Stripe webhooks.
 
-### Personal
+### Personal life
 
 - [Bills on your calendar, with amounts](https://botrecipe.com/recipes/bills-on-calendar/) - Puts every recurring bill on your calendar with the amount and reminds you 3 days before the ones that are not on autopay.
 - [Doctor visit prep note](https://botrecipe.com/recipes/doctor-visit-prep/) - Before an appointment, turns your notes into one page: symptoms with dates, medicines, and your questions.
@@ -256,7 +256,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Remember what you read](https://botrecipe.com/recipes/highlights-spaced-review/) - Sends you 3 of your book and article highlights each morning, spaced over weeks, each as a short question.
 - [Sunday family brief](https://botrecipe.com/recipes/sunday-family-brief/) - Every Sunday evening, sends the household one message with the week's events, pickups and appointments, and who handles each.
 
-### Product
+### Product & feedback
 
 - [Bug triage labels](https://botrecipe.com/recipes/bug-triage-labels/) - Sorts incoming bugs by how many users they block.
 - [Churn reason follow-up](https://botrecipe.com/recipes/churn-reason-follow-up/) - Asks customers who cancel one short question about why.
@@ -270,7 +270,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Release notes from merged changes](https://botrecipe.com/recipes/release-notes-from-merged-changes/) - Drafts customer-facing release notes from your change list.
 - [User interview scheduler](https://botrecipe.com/recipes/user-interview-scheduler/) - Invites recent signups to a short interview and books it.
 
-### Productivity
+### Personal productivity
 
 - [Bookmark triage](https://botrecipe.com/recipes/bookmark-triage/) - Turns a pile of saved links into read, act or delete.
 - [Daily plan from your task list](https://botrecipe.com/recipes/daily-plan-from-your-task-list/) - Each morning, picks three priorities from your tasks and calendar.
@@ -300,7 +300,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Tool pricing change watch](https://botrecipe.com/recipes/pricing-page-change-watch/) - Watches the pricing pages of tools you depend on and tells you in plain English when a plan or limit changes.
 - [Watch competitor pages for changes](https://botrecipe.com/recipes/competitor-page-watch/) - A bot checks a few competitor pages each week and tells you only what changed.
 
-### Reviews
+### Reviews & reputation
 
 - [Google review alert and reply draft](https://botrecipe.com/recipes/google-review-alert-and-reply-draft/) - Get alerted to new Google reviews and a draft reply in your voice.
 - [Negative review escalation](https://botrecipe.com/recipes/negative-review-escalation/) - Sends 1-2 star reviews straight to the owner with the customer record.
@@ -308,7 +308,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Review theme report](https://botrecipe.com/recipes/review-theme-report/) - Summarizes monthly reviews into what customers love and what they complain about.
 - [Testimonial request after a win](https://botrecipe.com/recipes/testimonial-request-after-a-win/) - Asks for a testimonial right after a customer reports a good result.
 
-### Sales Leads
+### Sales & leads
 
 - [Call notes to CRM](https://botrecipe.com/recipes/call-notes-to-crm/) - Turns your sales call notes into CRM fields and next steps.
 - [Cold email reply sorter](https://botrecipe.com/recipes/cold-email-reply-sorter/) - Sorts replies to your outreach into Interested, Not now, Wrong person and Unsubscribe, and drafts the next step for each.
@@ -327,7 +327,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Stale deal sweep](https://botrecipe.com/recipes/stale-deal-sweep/) - Every Monday, lists open deals with no activity in two weeks so each one gets a decision.
 - [Win and loss interviews](https://botrecipe.com/recipes/win-loss-interviews/) - A ready 15-minute interview script and summary prompt for customers who just bought or just said no.
 
-### Seo
+### SEO & blog
 
 - [Broken link sweep](https://botrecipe.com/recipes/broken-link-sweep/) - Finds broken links on your site every month so readers do not hit dead ends.
 - [Competitor content gap list](https://botrecipe.com/recipes/competitor-content-gap-list/) - Lists topics competitors cover that you do not, to plan content.
@@ -341,7 +341,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Search Console weekly winners and losers](https://botrecipe.com/recipes/search-console-weekly-winners-and-losers/) - Each week, lists pages whose search clicks rose or fell most.
 - [Search snippet preview](https://botrecipe.com/recipes/search-snippet-preview/) - Checks how titles and descriptions will look in search before publishing.
 
-### Site Ops
+### Site ops
 
 - [404 page that helps](https://botrecipe.com/recipes/404-page-that-helps/) - A not-found page with search and top links, plus a log of missing URLs to redirect.
 - [Backups you have restored once](https://botrecipe.com/recipes/backups-you-have-restored-once/) - Backs up your site and database and proves restore works.
@@ -359,7 +359,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Test your own contact form weekly](https://botrecipe.com/recipes/contact-form-weekly-test/) - Submits a test lead to your site form every week and alerts you if it does not reach your inbox within 5 minutes.
 - [Uptime monitor with a status page](https://botrecipe.com/recipes/uptime-monitor-with-a-status-page/) - Checks your site every few minutes and alerts when down.
 
-### Support
+### Customer support
 
 - [After-hours auto acknowledgment](https://botrecipe.com/recipes/after-hours-auto-acknowledgment/) - Sends one honest "we got it, here is when we reply" note outside business hours.
 - [Angry email early warning](https://botrecipe.com/recipes/angry-email-early-warning/) - Flags support emails with strong frustration so they get a fast, human reply first.
@@ -375,7 +375,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Support reply check against your help docs](https://botrecipe.com/recipes/support-reply-policy-check/) - Before a support reply goes out, checks it against your help docs and flags anything that conflicts or is not covered.
 - [Weekly support digest for the team](https://botrecipe.com/recipes/weekly-support-digest-for-the-team/) - Every Monday, one short message summarizing last week's support themes.
 
-### Video Podcast
+### Video & podcasts
 
 - [Captions and chapters for every video](https://botrecipe.com/recipes/video-captions-chapters/) - Fixes captions and writes YouTube chapters from the transcript so viewers can skim and the video is searchable.
 - [Clip finder for short videos](https://botrecipe.com/recipes/clip-finder-for-short-videos/) - Finds the strongest 30-60 second moments in a long video for shorts.
@@ -390,7 +390,7 @@ No MCP? Use [llms.txt](https://botrecipe.com/llms.txt) or [recipes.json](https:/
 - [Upload backup routine](https://botrecipe.com/recipes/upload-backup-routine/) - Copies every finished video and project file to a second place automatically.
 - [YouTube title and thumbnail text options](https://botrecipe.com/recipes/youtube-title-and-thumbnail-text-options/) - Drafts title and thumbnail text pairs from your video outline.
 
-### X Growth
+### X growth
 
 - [Bookmark-worthy thread outline](https://botrecipe.com/recipes/bookmark-worthy-thread-outline/) - Plans a thread that someone would save, from one thing you know well.
 - [Pause reply bots when the machine is struggling](https://botrecipe.com/recipes/reply-rotation-pause/) - When the shared machine runs low on memory, reply bots pause on their own and tell you once.
