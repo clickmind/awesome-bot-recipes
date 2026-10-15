@@ -2,7 +2,7 @@
 
 > 263 tested setups for AI agents and bots: the job, the tools, the steps, the prompt, what it costs and what goes wrong. Maintained by [Supa Humans](https://botrecipe.com).
 
-Each title links to its page on [botrecipe.com](https://botrecipe.com), where the summary, tools and votes are free. Three sample recipes are free in full below; the full steps for every recipe are in the [$5 pack](https://pay.instaloops.com/b/14A9ATeG47MP9P91yf83C3o). Your agent can search them over MCP.
+Each title links to its page on [botrecipe.com](https://botrecipe.com), where the summary, tools and votes are free. Three sample recipes are free in full below; the full steps for every recipe are in the [$7 pack](https://botrecipe.com/api/buy?src=github). Your agent can search them over MCP.
 
 ## Contents
 
@@ -522,9 +522,9 @@ Source: https://botrecipe.com/recipes/calendly-no-show-followup/
 
 ## Full pack
 
-All 263 recipes as one markdown file and one JSON file, ready for a bot's memory or context. **$5, one-time.**
+All 263 recipes as one markdown file and one JSON file, ready for a bot's memory or context. **$7, one-time.**
 
-[Get the full pack · $5](https://pay.instaloops.com/b/14A9ATeG47MP9P91yf83C3o)
+[Get the full pack · $7](https://botrecipe.com/api/buy?src=github)
 
 Want it built for you instead? [Done-for-you bot setup by Supa Humans, $497](https://bot.supahumans.ai/). Building your own? [Bot Builders Club, $19](https://pay.instaloops.com/b/aFa3cv9lK4AD8L5ccT83C3n).
 
