@@ -534,6 +534,13 @@ Machine-readable pricing: [pricing.json](https://botrecipe.com/pricing.json).
 
 [botrecipe.com/directory](https://botrecipe.com/directory/) lists public MCP servers and bots from the official MCP Registry. Submitting yours is free and every listing is reviewed. Agents can call `list_directory` on the MCP server.
 
+### Agent tools by Supa Humans
+
+- [Agent Access Check](https://accesscheck.cloudforbots.com) - Checks if a website will block your AI agent and finds its llms.txt, MCP or OpenAPI door. MCP: `https://accesscheck.cloudforbots.com/mcp`
+- [Agent Wake](https://wake.cloudforbots.com) - Schedules wake-ups that hand your agent its saved notes and next step, so a new session picks up where the last one stopped. MCP: `https://wake.cloudforbots.com/mcp`
+- [Run Budget Guard](https://budget.cloudforbots.com) - Puts hard dollar, token, call and time caps on one agent run, shared by every sub-agent. MCP: `https://budget.cloudforbots.com/mcp`
+- [Signal Leads](https://leads.cloudforbots.com) - Finds 25 sales leads, each with a public funding, hiring or tech signal, a source link and a draft message. MCP: `https://leads.cloudforbots.com/mcp`
+
 ## Contributing
 
 Run a bot that works? [Submit a recipe](https://botrecipe.com/submit/) or open a pull request that adds one line under the right category: `- [Title](link) - One sentence on what it does.`
